@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: binaryfour
     url: https://binaryfour.de
+  - name: Cloud binaryfour
+    url: https://cloud.binaryfour.de
   - name: Zweiradwerke
     url: https://zweiradwerke.de
   - name: Cloud Zweiradwerke
