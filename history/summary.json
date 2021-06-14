@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 417,
-    "timeWeek": 459,
-    "timeMonth": 475,
-    "timeYear": 471,
+    "time": 470,
+    "timeDay": 413,
+    "timeWeek": 461,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 807,
-    "timeWeek": 805,
-    "timeMonth": 897,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 711,
+    "timeWeek": 803,
+    "timeMonth": 884,
+    "timeYear": 906,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
-    "timeDay": 1241,
-    "timeWeek": 1447,
-    "timeMonth": 1548,
-    "timeYear": 1341,
+    "time": 1339,
+    "timeDay": 1149,
+    "timeWeek": 1406,
+    "timeMonth": 1529,
+    "timeYear": 1339,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.zweiradwerke.de",
     "slug": "cloud-zweiradwerke",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.51%",
+    "uptimeDay": "43.99%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "99.51%",
     "time": 847,
-    "timeDay": 760,
-    "timeWeek": 786,
-    "timeMonth": 831,
+    "timeDay": 0,
+    "timeWeek": 800,
+    "timeMonth": 828,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2021-06-13": 0
+      "2021-06-14": 36,
+      "2021-06-13": 771
     }
   }
 ]
