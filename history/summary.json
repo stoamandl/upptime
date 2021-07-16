@@ -22,19 +22,19 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/cloud.binaryfour.de",
     "slug": "cloud-binaryfour",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 685,
-    "timeWeek": 863,
-    "timeMonth": 926,
-    "timeYear": 908,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 907,
+    "timeDay": 701,
+    "timeWeek": 849,
+    "timeMonth": 921,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2021-07-16": 0
+      "2021-07-16": 36
     }
   },
   {
