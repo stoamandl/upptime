@@ -22,18 +22,20 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/cloud.binaryfour.de",
     "slug": "cloud-binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 810,
-    "timeWeek": 907,
-    "timeMonth": 939,
-    "timeYear": 911,
-    "dailyMinutesDown": {}
+    "time": 908,
+    "timeDay": 685,
+    "timeWeek": 863,
+    "timeMonth": 926,
+    "timeYear": 908,
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "Zweiradwerke",
