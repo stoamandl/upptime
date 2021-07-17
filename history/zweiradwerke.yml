@@ -1,7 +1,7 @@
 url: https://zweiradwerke.de
-status: up
-code: 200
-responseTime: 1410
-lastUpdated: 2021-07-16T23:00:31.995Z
+status: down
+code: 500
+responseTime: 1496
+lastUpdated: 2021-07-17T15:39:55.151Z
 startTime: Fri Feb 19 2021 20:41:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
