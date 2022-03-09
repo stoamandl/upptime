@@ -4,10 +4,10 @@
     "url": "https://binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/binaryfour.de",
     "slug": "binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 494,
@@ -16,6 +16,7 @@
     "timeMonth": 602,
     "timeYear": 498,
     "dailyMinutesDown": {
+      "2022-03-09": 1,
       "2021-10-08": 86
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/cloud.binaryfour.de",
     "slug": "cloud-binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 823,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-12-30": 33,
       "2021-10-08": 100,
       "2021-07-16": 36
@@ -46,18 +48,19 @@
     "url": "https://zweiradwerke.de",
     "icon": "https://favicons.githubusercontent.com/zweiradwerke.de",
     "slug": "zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1760,
-    "timeDay": 1217,
-    "timeWeek": 2286,
-    "timeMonth": 2238,
-    "timeYear": 1813,
+    "time": 1757,
+    "timeDay": 1046,
+    "timeWeek": 2110,
+    "timeMonth": 2194,
+    "timeYear": 1810,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-12-30": 33,
       "2021-10-08": 85
     }
