@@ -4,10 +4,10 @@
     "url": "https://binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/binaryfour.de",
     "slug": "binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 495,
@@ -16,6 +16,7 @@
     "timeMonth": 620,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2022-03-11": 2,
       "2021-10-08": 86
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://favicons.githubusercontent.com/cloud.binaryfour.de",
     "slug": "cloud-binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 887,
@@ -36,6 +37,7 @@
     "timeMonth": 842,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2022-03-11": 1,
       "2021-12-30": 33,
       "2021-10-08": 100,
       "2021-07-16": 36
@@ -46,10 +48,10 @@
     "url": "https://zweiradwerke.de",
     "icon": "https://favicons.githubusercontent.com/zweiradwerke.de",
     "slug": "zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1773,
@@ -58,6 +60,7 @@
     "timeMonth": 2290,
     "timeYear": 1832,
     "dailyMinutesDown": {
+      "2022-03-11": 1,
       "2021-12-30": 33,
       "2021-10-08": 85
     }
@@ -67,9 +70,9 @@
     "url": "https://cloud.zweiradwerke.de",
     "icon": "https://favicons.githubusercontent.com/cloud.zweiradwerke.de",
     "slug": "cloud-zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -79,6 +82,7 @@
     "timeMonth": 855,
     "timeYear": 852,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2021-12-30": 55,
       "2021-10-08": 85,
       "2021-06-14": 390,
