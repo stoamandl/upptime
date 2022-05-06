@@ -48,11 +48,11 @@
     "url": "https://zweiradwerke.de",
     "icon": "https://favicons.githubusercontent.com/zweiradwerke.de",
     "slug": "zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1780,
     "timeDay": 1268,
@@ -60,6 +60,7 @@
     "timeMonth": 1160,
     "timeYear": 1893,
     "dailyMinutesDown": {
+      "2022-05-06": 3,
       "2022-03-11": 28,
       "2021-12-30": 33,
       "2021-10-08": 85
@@ -94,9 +95,9 @@
     "url": "https://wolf-ingenieurbuero.de",
     "icon": "https://favicons.githubusercontent.com/wolf-ingenieurbuero.de",
     "slug": "wolf-ingenieurbuero",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -106,6 +107,7 @@
     "timeMonth": 1239,
     "timeYear": 1447,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2021-12-30": 33,
       "2021-10-08": 99
     }
