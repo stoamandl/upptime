@@ -1,7 +1,7 @@
 url: https://wolf-ingenieurbuero.de
-status: up
-code: 200
-responseTime: 1211
-lastUpdated: 2022-08-17T23:01:23.430Z
+status: down
+code: 500
+responseTime: 683
+lastUpdated: 2022-08-18T19:23:01.410Z
 startTime: Fri Jul 30 2021 10:27:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
