@@ -15,7 +15,9 @@ sites:
   - name: Cloud Zweiradwerke
     url: https://cloud.zweiradwerke.de
   - name: Wolf Ingenieurbüro
-    url: https://wolf-ingenieurbuero.de    
+    url: https://wolf-ingenieurbuero.de
+  - name: mastodon.binaryfour.de
+    url: https://mastodon.binaryfour.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
