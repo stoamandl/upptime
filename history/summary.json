@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 975,
-    "timeDay": 1090,
-    "timeWeek": 945,
-    "timeMonth": 879,
-    "timeYear": 1063,
+    "timeDay": 911,
+    "timeWeek": 948,
+    "timeMonth": 887,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2023-02-23": 99,
       "2023-01-25": 69,
@@ -24,8 +24,7 @@
       "2022-11-02": 36,
       "2022-09-11": 25,
       "2022-09-02": 225,
-      "2022-05-13": 418,
-      "2022-05-12": 404
+      "2022-05-13": 418
     }
   },
   {
@@ -39,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 936,
-    "timeDay": 1077,
-    "timeWeek": 917,
-    "timeMonth": 929,
-    "timeYear": 963,
+    "time": 937,
+    "timeDay": 943,
+    "timeWeek": 953,
+    "timeMonth": 938,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2023-02-23": 99,
       "2023-02-13": 17,
@@ -57,8 +56,7 @@
       "2022-10-19": 18,
       "2022-10-03": 180,
       "2022-09-21": 15,
-      "2022-05-13": 418,
-      "2022-05-12": 403
+      "2022-05-13": 418
     }
   },
   {
@@ -67,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zweiradwerke.de.ico",
     "slug": "zweiradwerke",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 1909,
-    "timeDay": 1677,
+    "time": 1910,
+    "timeDay": 1416,
     "timeWeek": 1554,
-    "timeMonth": 1455,
-    "timeYear": 1665,
+    "timeMonth": 1464,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2023-01-25": 36,
       "2022-11-16": 25,
@@ -85,8 +83,7 @@
       "2022-11-02": 35,
       "2022-09-11": 25,
       "2022-09-05": 179,
-      "2022-05-13": 418,
-      "2022-05-12": 403
+      "2022-05-13": 418
     }
   },
   {
@@ -101,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 967,
-    "timeDay": 1050,
-    "timeWeek": 903,
-    "timeMonth": 882,
+    "timeDay": 898,
+    "timeWeek": 900,
+    "timeMonth": 890,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2023-01-25": 36,
@@ -119,8 +116,7 @@
       "2022-09-10": 76,
       "2022-09-09": 108,
       "2022-07-09": 35,
-      "2022-05-13": 418,
-      "2022-05-12": 402
+      "2022-05-13": 418
     }
   },
   {
@@ -134,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.71%",
-    "time": 1821,
-    "timeDay": 3821,
-    "timeWeek": 3463,
-    "timeMonth": 3256,
-    "timeYear": 1989,
+    "time": 1823,
+    "timeDay": 3153,
+    "timeWeek": 3405,
+    "timeMonth": 3263,
+    "timeYear": 1995,
     "dailyMinutesDown": {
       "2023-04-28": 16,
       "2023-01-25": 60,
@@ -149,8 +145,7 @@
       "2022-11-02": 35,
       "2022-09-11": 65,
       "2022-08-26": 29,
-      "2022-05-13": 418,
-      "2022-05-12": 402
+      "2022-05-13": 418
     }
   },
   {
@@ -165,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 665,
-    "timeDay": 832,
+    "timeDay": 711,
     "timeWeek": 725,
-    "timeMonth": 667,
+    "timeMonth": 674,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2023-02-27": 16,
