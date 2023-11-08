@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 986,
-    "timeDay": 563,
-    "timeWeek": 704,
-    "timeMonth": 750,
+    "timeDay": 936,
+    "timeWeek": 744,
+    "timeMonth": 762,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-07-27": 38,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1003,
-    "timeDay": 708,
-    "timeWeek": 837,
-    "timeMonth": 880,
+    "timeDay": 1104,
+    "timeWeek": 890,
+    "timeMonth": 892,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2023-09-27": 16,
@@ -52,8 +52,7 @@
       "2023-01-09": 34,
       "2022-11-16": 32,
       "2022-11-15": 264,
-      "2022-11-14": 161,
-      "2022-11-08": 56
+      "2022-11-14": 161
     }
   },
   {
@@ -67,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 1564,
-    "timeDay": 1094,
-    "timeWeek": 1261,
-    "timeMonth": 1316,
+    "time": 1563,
+    "timeDay": 1639,
+    "timeWeek": 1323,
+    "timeMonth": 1338,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2023-08-08": 21,
@@ -98,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 977,
-    "timeDay": 694,
-    "timeWeek": 796,
-    "timeMonth": 843,
+    "timeDay": 1101,
+    "timeWeek": 852,
+    "timeMonth": 856,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2023-07-27": 38,
@@ -111,8 +110,7 @@
       "2022-11-18": 45,
       "2022-11-16": 19,
       "2022-11-15": 263,
-      "2022-11-14": 161,
-      "2022-11-08": 24
+      "2022-11-14": 161
     }
   },
   {
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2781,
-    "timeDay": 3240,
-    "timeWeek": 3673,
-    "timeMonth": 3568,
-    "timeYear": 3211,
+    "time": 2786,
+    "timeDay": 3819,
+    "timeWeek": 3744,
+    "timeMonth": 3586,
+    "timeYear": 3215,
     "dailyMinutesDown": {
       "2023-09-14": 41,
       "2023-09-10": 22,
@@ -153,18 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.binaryfour.de.ico",
     "slug": "mastodon-binaryfour-de",
     "status": "down",
-    "uptime": "47.32%",
+    "uptime": "47.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.32%",
+    "uptimeYear": "47.16%",
     "time": 663,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-11-07": 53,
+      "2023-11-08": 52,
+      "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
