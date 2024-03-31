@@ -13,7 +13,7 @@
     "time": 861,
     "timeDay": 887,
     "timeWeek": 801,
-    "timeMonth": 733,
+    "timeMonth": 730,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2023-12-23": 62,
@@ -36,7 +36,7 @@
     "time": 1067,
     "timeDay": 1082,
     "timeWeek": 962,
-    "timeMonth": 1029,
+    "timeMonth": 1026,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2023-12-23": 62,
@@ -61,7 +61,7 @@
     "time": 1508,
     "timeDay": 371,
     "timeWeek": 248,
-    "timeMonth": 827,
+    "timeMonth": 836,
     "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-12-23": 62,
@@ -89,7 +89,7 @@
     "time": 909,
     "timeDay": 1038,
     "timeWeek": 899,
-    "timeMonth": 811,
+    "timeMonth": 808,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2023-12-23": 62,
@@ -106,17 +106,16 @@
     "slug": "wolf-ingenieurbuero",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3051,
     "timeDay": 11890,
     "timeWeek": 4297,
-    "timeMonth": 2517,
+    "timeMonth": 2489,
     "timeYear": 3424,
     "dailyMinutesDown": {
-      "2024-03-30": 10,
       "2023-09-14": 41,
       "2023-09-10": 22,
       "2023-08-11": 32,
@@ -141,7 +140,7 @@
     "time": 500,
     "timeDay": 683,
     "timeWeek": 526,
-    "timeMonth": 483,
+    "timeMonth": 481,
     "timeYear": 500,
     "dailyMinutesDown": {}
   }
