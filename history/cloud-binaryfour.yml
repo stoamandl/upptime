@@ -1,7 +1,7 @@
 url: https://cloud.binaryfour.de
-status: up
-code: 200
-responseTime: 1521
-lastUpdated: 2024-06-14T23:00:40.225Z
+status: down
+code: 500
+responseTime: 589
+lastUpdated: 2024-06-15T13:41:39.461Z
 startTime: 2021-02-19T21:07:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
