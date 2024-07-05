@@ -4,9 +4,9 @@
     "url": "https://binaryfour.de",
     "icon": "https://icons.duckduckgo.com/ip3/binaryfour.de.ico",
     "slug": "binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 945,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2023-12-23": 62,
       "2023-11-19": 22,
       "2023-07-27": 38
@@ -26,9 +27,9 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.binaryfour.de.ico",
     "slug": "cloud-binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 1149,
     "timeYear": 1114,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-06-15": 17,
       "2023-12-23": 62,
       "2023-11-19": 22,
@@ -52,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zweiradwerke.de.ico",
     "slug": "zweiradwerke",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
@@ -75,18 +77,19 @@
     "url": "https://cloud.zweiradwerke.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.zweiradwerke.de.ico",
     "slug": "cloud-zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 913,
+    "time": 914,
     "timeDay": 929,
     "timeWeek": 938,
     "timeMonth": 1039,
     "timeYear": 904,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-06-15": 17,
       "2023-12-23": 62,
       "2023-11-19": 21,
@@ -126,9 +129,9 @@
     "url": "https://reposrc.de",
     "icon": "https://icons.duckduckgo.com/ip3/reposrc.de.ico",
     "slug": "reposrc-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,6 +140,8 @@
     "timeWeek": 484,
     "timeMonth": 568,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   }
 ]
