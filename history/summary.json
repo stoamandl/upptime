@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 806,
-    "timeDay": 612,
-    "timeWeek": 769,
-    "timeMonth": 759,
+    "timeDay": 763,
+    "timeWeek": 775,
+    "timeMonth": 753,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2024-07-11": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1033,
-    "timeDay": 947,
-    "timeWeek": 938,
-    "timeMonth": 969,
+    "timeDay": 945,
+    "timeWeek": 943,
+    "timeMonth": 959,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2024-06-15": 17
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zweiradwerke.de.ico",
     "slug": "zweiradwerke",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 555,
+    "time": 746,
+    "timeDay": 532,
     "timeWeek": 563,
-    "timeMonth": 572,
-    "timeYear": 550,
+    "timeMonth": 566,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2024-06-30": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 771,
-    "timeWeek": 896,
-    "timeMonth": 885,
-    "timeYear": 915,
+    "time": 904,
+    "timeDay": 880,
+    "timeWeek": 909,
+    "timeMonth": 879,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2024-06-15": 17
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2354,
-    "timeDay": 1123,
-    "timeWeek": 1580,
-    "timeMonth": 1633,
-    "timeYear": 1924,
+    "time": 2314,
+    "timeDay": 1324,
+    "timeWeek": 1549,
+    "timeMonth": 1615,
+    "timeYear": 1923,
     "dailyMinutesDown": {
       "2024-05-20": 16,
       "2024-05-01": 17
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
-    "timeDay": 455,
-    "timeWeek": 527,
-    "timeMonth": 513,
+    "timeDay": 497,
+    "timeWeek": 535,
+    "timeMonth": 508,
     "timeYear": 528,
     "dailyMinutesDown": {}
   }
