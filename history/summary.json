@@ -4,9 +4,9 @@
     "url": "https://binaryfour.de",
     "icon": "https://icons.duckduckgo.com/ip3/binaryfour.de.ico",
     "slug": "binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 779,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-01-26": 0,
       "2024-07-11": 16
     }
   },
