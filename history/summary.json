@@ -24,10 +24,10 @@
     "url": "https://cloud.binaryfour.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.binaryfour.de.ico",
     "slug": "cloud-binaryfour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1048,
@@ -36,6 +36,7 @@
     "timeMonth": 1018,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2025-02-03": 1,
       "2024-06-15": 17
     }
   },
@@ -64,10 +65,10 @@
     "url": "https://cloud.zweiradwerke.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.zweiradwerke.de.ico",
     "slug": "cloud-zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
@@ -76,6 +77,7 @@
     "timeMonth": 895,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2025-02-03": 1,
       "2024-06-15": 17
     }
   },
@@ -105,9 +107,9 @@
     "url": "https://reposrc.de",
     "icon": "https://icons.duckduckgo.com/ip3/reposrc.de.ico",
     "slug": "reposrc-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,6 +118,8 @@
     "timeWeek": 462,
     "timeMonth": 532,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   }
 ]
