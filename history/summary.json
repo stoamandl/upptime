@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 703,
-    "timeWeek": 907,
-    "timeMonth": 1160,
+    "timeDay": 939,
+    "timeWeek": 880,
+    "timeMonth": 1157,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2024-07-11": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1113,
-    "timeDay": 986,
-    "timeWeek": 1303,
-    "timeMonth": 1462,
+    "timeDay": 1144,
+    "timeWeek": 1272,
+    "timeMonth": 1455,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-02-17": 42,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 190,
-    "timeWeek": 294,
-    "timeMonth": 346,
-    "timeYear": 389,
+    "time": 574,
+    "timeDay": 215,
+    "timeWeek": 297,
+    "timeMonth": 336,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2024-06-30": 17
     }
@@ -72,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 806,
-    "timeWeek": 1129,
-    "timeMonth": 1271,
+    "time": 960,
+    "timeDay": 1047,
+    "timeWeek": 1106,
+    "timeMonth": 1272,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2025-02-03": 16,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1848,
-    "timeDay": 1437,
-    "timeWeek": 1475,
-    "timeMonth": 1577,
-    "timeYear": 1772,
+    "time": 1847,
+    "timeDay": 1338,
+    "timeWeek": 1467,
+    "timeMonth": 1576,
+    "timeYear": 1769,
     "dailyMinutesDown": {
       "2025-03-26": 21,
       "2025-02-12": 74,
@@ -117,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 451,
-    "timeWeek": 893,
+    "timeDay": 489,
+    "timeWeek": 515,
     "timeMonth": 719,
-    "timeYear": 569,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2025-02-03": 16
     }
