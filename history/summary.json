@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 865,
-    "timeDay": 976,
-    "timeWeek": 892,
-    "timeMonth": 913,
+    "timeDay": 804,
+    "timeWeek": 885,
+    "timeMonth": 906,
     "timeYear": 897,
     "dailyMinutesDown": {
       "2024-07-11": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1105,
-    "timeDay": 1358,
-    "timeWeek": 1261,
-    "timeMonth": 1227,
+    "timeDay": 1082,
+    "timeWeek": 1230,
+    "timeMonth": 1217,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-04-12": 21,
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 415,
-    "timeWeek": 522,
-    "timeMonth": 404,
+    "time": 470,
+    "timeDay": 225,
+    "timeWeek": 486,
+    "timeMonth": 395,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2024-06-30": 17
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 978,
-    "timeDay": 1193,
-    "timeWeek": 1103,
-    "timeMonth": 1032,
-    "timeYear": 1012,
+    "time": 977,
+    "timeDay": 876,
+    "timeWeek": 1074,
+    "timeMonth": 1025,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-02-03": 16,
       "2024-06-15": 17
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1842,
-    "timeDay": 1994,
-    "timeWeek": 2133,
-    "timeMonth": 2002,
-    "timeYear": 1640,
+    "time": 1841,
+    "timeDay": 1449,
+    "timeWeek": 2045,
+    "timeMonth": 1987,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2025-03-26": 21,
       "2025-02-12": 74
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 669,
-    "timeWeek": 607,
-    "timeMonth": 581,
+    "timeDay": 485,
+    "timeWeek": 589,
+    "timeMonth": 573,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-02-03": 16
