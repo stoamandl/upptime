@@ -6,14 +6,14 @@
     "slug": "binaryfour",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 868,
-    "timeDay": 863,
-    "timeWeek": 959,
-    "timeMonth": 930,
+    "timeDay": 918,
+    "timeWeek": 965,
+    "timeMonth": 926,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2025-06-13": 17,
@@ -27,21 +27,20 @@
     "slug": "cloud-binaryfour",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1106,
-    "timeDay": 1117,
-    "timeWeek": 1211,
-    "timeMonth": 1213,
-    "timeYear": 1133,
+    "timeDay": 1045,
+    "timeWeek": 1201,
+    "timeMonth": 1200,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-06-13": 17,
       "2025-04-12": 21,
       "2025-02-17": 42,
-      "2025-02-03": 16,
-      "2024-06-15": 17
+      "2025-02-03": 16
     }
   },
   {
@@ -55,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 226,
-    "timeWeek": 481,
-    "timeMonth": 394,
+    "time": 441,
+    "timeDay": 351,
+    "timeWeek": 498,
+    "timeMonth": 390,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2024-06-30": 17
@@ -71,19 +70,18 @@
     "slug": "cloud-zweiradwerke",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 982,
-    "timeDay": 1120,
-    "timeWeek": 1111,
-    "timeMonth": 1036,
-    "timeYear": 1011,
+    "time": 983,
+    "timeDay": 1051,
+    "timeWeek": 1126,
+    "timeMonth": 1033,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-06-13": 17,
-      "2025-02-03": 16,
-      "2024-06-15": 17
+      "2025-02-03": 16
     }
   },
   {
@@ -98,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1845,
-    "timeDay": 1563,
-    "timeWeek": 2482,
-    "timeMonth": 2248,
-    "timeYear": 1664,
+    "timeDay": 1704,
+    "timeWeek": 2489,
+    "timeMonth": 2247,
+    "timeYear": 1663,
     "dailyMinutesDown": {
       "2025-03-26": 21,
       "2025-02-12": 74
@@ -118,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 486,
-    "timeWeek": 576,
-    "timeMonth": 566,
-    "timeYear": 572,
+    "time": 560,
+    "timeDay": 564,
+    "timeWeek": 589,
+    "timeMonth": 562,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-02-03": 16
     }
