@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 869,
-    "timeDay": 1178,
-    "timeWeek": 929,
-    "timeMonth": 927,
-    "timeYear": 896,
+    "timeDay": 890,
+    "timeWeek": 920,
+    "timeMonth": 924,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-06-13": 17,
       "2024-07-11": 16
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1106,
-    "timeDay": 1339,
-    "timeWeek": 1152,
-    "timeMonth": 1187,
+    "timeDay": 1190,
+    "timeWeek": 1151,
+    "timeMonth": 1182,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-06-13": 17,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 552,
-    "timeWeek": 348,
-    "timeMonth": 393,
-    "timeYear": 413,
+    "time": 433,
+    "timeDay": 863,
+    "timeWeek": 408,
+    "timeMonth": 406,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2024-06-30": 17
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 985,
-    "timeDay": 1285,
-    "timeWeek": 1080,
-    "timeMonth": 1035,
-    "timeYear": 1011,
+    "time": 986,
+    "timeDay": 1008,
+    "timeWeek": 1068,
+    "timeMonth": 1029,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-06-13": 17,
       "2025-02-03": 16
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1853,
-    "timeDay": 4506,
-    "timeWeek": 2454,
-    "timeMonth": 2248,
+    "timeDay": 1680,
+    "timeWeek": 2445,
+    "timeMonth": 2244,
     "timeYear": 1680,
     "dailyMinutesDown": {
       "2025-03-26": 21,
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 720,
-    "timeWeek": 550,
-    "timeMonth": 557,
+    "timeDay": 544,
+    "timeWeek": 544,
+    "timeMonth": 552,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-02-03": 16
