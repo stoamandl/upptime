@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 958,
-    "timeDay": 1259,
-    "timeWeek": 943,
-    "timeMonth": 1207,
-    "timeYear": 1003,
+    "timeDay": 1083,
+    "timeWeek": 998,
+    "timeMonth": 1206,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2025-07-02": 46,
       "2025-06-13": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1223,
-    "timeDay": 1386,
-    "timeWeek": 1258,
-    "timeMonth": 1671,
-    "timeYear": 1275,
+    "timeDay": 1321,
+    "timeWeek": 1305,
+    "timeMonth": 1651,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2025-07-02": 46,
       "2025-06-13": 17,
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 527,
-    "timeWeek": 404,
-    "timeMonth": 379,
-    "timeYear": 442,
+    "timeDay": 466,
+    "timeWeek": 435,
+    "timeMonth": 386,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1060,
-    "timeDay": 1168,
-    "timeWeek": 978,
-    "timeMonth": 1317,
-    "timeYear": 1090,
+    "time": 1059,
+    "timeDay": 1124,
+    "timeWeek": 1024,
+    "timeMonth": 1313,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2025-06-13": 17,
       "2025-02-03": 16
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1795,
-    "timeDay": 2429,
-    "timeWeek": 1684,
+    "timeDay": 1953,
+    "timeWeek": 1791,
     "timeMonth": 1644,
-    "timeYear": 1862,
+    "timeYear": 1865,
     "dailyMinutesDown": {
       "2025-03-26": 21,
       "2025-02-12": 74
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 688,
-    "timeWeek": 569,
-    "timeMonth": 690,
+    "timeDay": 650,
+    "timeWeek": 594,
+    "timeMonth": 695,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2025-02-03": 16
