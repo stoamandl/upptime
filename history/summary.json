@@ -49,18 +49,20 @@
     "url": "https://zweiradwerke.de",
     "icon": "https://icons.duckduckgo.com/ip3/zweiradwerke.de.ico",
     "slug": "zweiradwerke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 485,
-    "timeWeek": 592,
-    "timeMonth": 496,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "timeDay": 322,
+    "timeWeek": 538,
+    "timeMonth": 485,
+    "timeYear": 443,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Cloud Zweiradwerke",
