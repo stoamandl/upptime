@@ -92,18 +92,19 @@
     "url": "https://wolf-ingenieurbuero.de",
     "icon": "https://icons.duckduckgo.com/ip3/wolf-ingenieurbuero.de.ico",
     "slug": "wolf-ingenieurbuero",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1859,
+    "time": 1860,
     "timeDay": 2810,
     "timeWeek": 2637,
     "timeMonth": 2255,
     "timeYear": 1933,
     "dailyMinutesDown": {
+      "2026-01-08": 0,
       "2025-03-26": 21,
       "2025-02-12": 74
     }
