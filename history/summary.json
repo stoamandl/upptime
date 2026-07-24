@@ -40,15 +40,15 @@
     "url": "https://zweiradwerke.de",
     "icon": "https://icons.duckduckgo.com/ip3/zweiradwerke.de.ico",
     "slug": "zweiradwerke",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.89%",
-    "time": 505,
-    "timeDay": 545,
-    "timeWeek": 511,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "85.53%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.87%",
+    "time": 506,
+    "timeDay": 567,
+    "timeWeek": 520,
     "timeMonth": 614,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
       "2026-03-16": 219,
       "2026-06-24": 122,
       "2026-07-17": 48,
-      "2026-07-24": 138
+      "2026-07-24": 208
     }
   },
   {
