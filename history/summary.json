@@ -42,10 +42,10 @@
     "slug": "zweiradwerke",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "90.41%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.89%",
     "time": 505,
     "timeDay": 545,
     "timeWeek": 511,
@@ -57,7 +57,7 @@
       "2026-03-16": 219,
       "2026-06-24": 122,
       "2026-07-17": 48,
-      "2026-07-24": 0
+      "2026-07-24": 138
     }
   },
   {
