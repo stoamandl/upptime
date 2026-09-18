@@ -111,17 +111,19 @@
     "url": "https://reposrc.de",
     "icon": "https://icons.duckduckgo.com/ip3/reposrc.de.ico",
     "slug": "reposrc-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 552,
-    "timeWeek": 546,
-    "timeMonth": 588,
+    "timeDay": 472,
+    "timeWeek": 526,
+    "timeMonth": 582,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-18": 0
+    }
   }
 ]
